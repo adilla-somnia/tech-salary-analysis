@@ -27,6 +27,7 @@ Here is a glimpse of the strategic findings uncovered during the query execution
 
 ## 📂 Repository Structure
 * `README.md` -> Executive project brief and summary of results.
+* `notebooks/tech-salary-analysis.ipynb` -> Jupyter notebook from Kaggle for visualization
 
 ## 👋 Contact & Portfolio
 * **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maria-adilla-lopes-da-silva-1900b1210/)
